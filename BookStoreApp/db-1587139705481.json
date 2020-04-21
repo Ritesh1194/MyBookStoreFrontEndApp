@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Harry Potter Book",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Harry Potter Book",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "imageUrl": "https://wallpapercave.com/wp/wp1850856.jpg",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter Book",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7UfyyNCOvhdUF_g2RK4tnRlML1ilACj4HPf_ArLuwo--vsNx9&usqp=CAU",
+      "price": 299
+    },
+    {
+      "id": 4,
+      "name": "Harry Potter Book",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+      "imageUrl": "https://edu.glogster.com/proxy?url=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51KV4CXARLL.jpg",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter Book",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+      "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+      "price": 299
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1
+    },
+    {
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7UfyyNCOvhdUF_g2RK4tnRlML1ilACj4HPf_ArLuwo--vsNx9&usqp=CAU",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://lh3.googleusercontent.com/proxy/nMTu0s7aoGtEvqhg36-vzoP8WYzda7iQGNyQKFsT2WEY_zIWj7BnrvEba5xsuLmrfjUBLa-GJ7FBL8kdPr1gDxp2NY9gH06Y",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7UfyyNCOvhdUF_g2RK4tnRlML1ilACj4HPf_ArLuwo--vsNx9&usqp=CAU",
+        "price": 299
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Harry Potter Book",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+        "price": 299
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Harry Potter Book",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+        "price": 299
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Harry Potter Book",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+        "price": 299
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Harry Potter Book",
+        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+        "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://lh3.googleusercontent.com/proxy/nMTu0s7aoGtEvqhg36-vzoP8WYzda7iQGNyQKFsT2WEY_zIWj7BnrvEba5xsuLmrfjUBLa-GJ7FBL8kdPr1gDxp2NY9gH06Y",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://wallpapercave.com/wp/wp1850856.jpg",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Harry Potter Book",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "imageUrl": "https://wallpapercave.com/wp/wp1850856.jpg",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Harry Potter Book",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "imageUrl": "https://www.readingsanctuary.com/wp-content/uploads/2018/03/Harry-Potter-and-the-Cursed-Child-Book-Poster-cover-image-202x300.jpg",
+        "price": 299
+      },
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
