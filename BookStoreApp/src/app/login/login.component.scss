@@ -1,12 +1,11 @@
 
 .container {
 	position: absolute;
-	right: 450px;
-	margin: 20px;
-	max-width: 300px;
+	right: 600px;
+	margin-right: 20px;
+	max-width: 200px;
 	padding: 16px;
 	background-color: white;
-	margin: 20px;
 }
 
 button {
@@ -31,3 +30,7 @@ button:hover {
   .example-container > * {
 	width: 100%;
   }
+.mat-card{
+	width: 40%;
+
+}

@@ -8,7 +8,7 @@ export const environment = {
   productsUrl: 'http://localhost:3000/products',
 	cartUrl: 'http://localhost:3000/carts',
  	wishlistUrl: 'http://localhost:3000/wishlist',
-  apiUrl: 'http://localhost:9050/',
+  apiUrl: 'http://localhost:9030/',
   registerUrl: 'users/registration/',
   loginUrl: 'users/login/',
   forgotpasswordUrl: 'users/forgotpassword/',

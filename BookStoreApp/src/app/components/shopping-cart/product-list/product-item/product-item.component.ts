@@ -15,11 +15,15 @@ export class ProductItemComponent implements OnInit {
 
   @Input() addedToWishlist: boolean;
 
+  changeText: boolean;
   constructor(
     private msg: MessengerService,
     private cartService: CartService,
-    private wishlistService: WishlistService
-  ) { }
+    private wishlistService: WishlistService,
+    
+  ) {
+  this.changeText = false;
+   }
 
   ngOnInit() {
   }

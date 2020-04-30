@@ -24,7 +24,9 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatCardModule } from '@angular/material/card';
 import { MatSelectModule } from '@angular/material/select';
+import { MatDialogModule, MatDialogRef, MAT_DIALOG_DATA, MatDialogTitle} from '@angular/material/dialog';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 @NgModule({
 
   declarations: [
@@ -45,7 +47,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     BrowserModule,
     AppRoutingModule,
     NgbModule,
-    HttpClientModule,MatFormFieldModule,MatIconModule,MatInputModule,ReactiveFormsModule,MatButtonModule,MatSnackBarModule,RouterModule,MatCardModule,MatSelectModule,FormsModule,BrowserAnimationsModule
+    HttpClientModule,MatFormFieldModule,MatIconModule,MatInputModule,ReactiveFormsModule,MatButtonModule,MatSnackBarModule,RouterModule,MatCardModule,MatSelectModule,FormsModule,BrowserAnimationsModule,MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent],schemas: [CUSTOM_ELEMENTS_SCHEMA]
